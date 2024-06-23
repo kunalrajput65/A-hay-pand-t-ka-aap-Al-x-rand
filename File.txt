@@ -1,137 +1,37 @@
-( y) ;D = (Y) T3RII <M99MII> K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <M99MII> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <M99MII> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <M99MII> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <M99MII> K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <M99MII> K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <M99MII> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <M99MII> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <M99MII> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <M99MII> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <M99MII> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <M99MII> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <M99MII> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <M99MII> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*,
- ( y) ;D = (Y) T3RII <M99MII> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <M99MII> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <M99MII> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3,
- ( y) ;D = (Y) T3RII <BU9> K0  L U N  M99-RU  J H 9 T U   T 9 T T 3  (Y) <3 :),
- ( y) ;D = (Y) T3RII <BU9> K0 { C H 0 D } K3 MUK9R J9UNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <BU9> K0 P9T9K K3 { C H 0 D U N G 9 } L0C9L  P I L L 3  (Y) <3 ;),
- ( y) ;D = (Y) T3RII <BU9> K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <BU9> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <BU9> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <BU9> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <BU9> K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <BU9> K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <BU9> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <BU9> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <BU9> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <BU9> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <BU9> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <BU9> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <BU9> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <BU9> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*,
- ( y) ;D = (Y) T3RII <BU9> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <BU9> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <BU9> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3,
- ( y) ;D = (Y) T3RII <9PPII> K0  L U N  M99-RU  J H 9 T U   T 9 T T 3  (Y) <3 :),
- ( y) ;D = (Y) T3RII <9PPII> K0 { C H 0 D } K3 MUK9R J9UNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <9PPII> K0 P9T9K K3 { C H 0 D U N G 9 } L0C9L  P I L L 3  (Y) <3 ;),
- ( y) ;D = (Y) T3RII <9PPII> K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <9PPII> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <9PPII> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <9PPII> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <9PPII> K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <9PPII> K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <9PPII> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <9PPII> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <9PPII> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <9PPII> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <9PPII> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <9PPII> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <9PPII> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <9PPII> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*,
- ( y) ;D = (Y) T3RII <9PPII> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <9PPII> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <9PPII> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3,
- ( y) ;D = (Y) T3RII <B9H3N> K0  L U N  M99-RU  J H 9 T U   T 9 T T 3  (Y) <3 :),
- ( y) ;D = (Y) T3RII <B9H3N> K0 { C H 0 D } K3 MUK9R J9UNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <B9H3N> K0 P9T9K K3 { C H 0 D U N G 9 } L0C9L  P I L L 3  (Y) <3 ;),
- ( y) ;D = (Y) T3RII <B9H3N> K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <B9H3N> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <B9H3N> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <B9H3N> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <B9H3N> K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <B9H3N> K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <B9H3N> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <B9H3N> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <B9H3N> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <B9H3N> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <B9H3N> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <B9H3N> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <B9H3N> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <B9H3N> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*,
- ( y) ;D = (Y) T3RII <B9H3N> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <B9H3N> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <B9H3N> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3,
- ( y) ;D = (Y) T3RII <M99W> K0  L U N  M99-RU  J H 9 T U   T 9 T T 3  (Y) <3 :),
- ( y) ;D = (Y) T3RII <M99W> K0 { C H 0 D } K3 MUK9R J9UNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <M99W> K0 P9T9K K3 { C H 0 D U N G 9 } L0C9L  P I L L 3  (Y) <3 ;),
- ( y) ;D = (Y) T3RII <M99W> K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <M99W> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <M99W> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <M99W> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <M99W> K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <M99W> K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <M99W> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <M99W> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <M99W> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <M99W> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <M99W> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <M99W> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <M99W> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <M99W> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*,
- ( y) ;D = (Y) T3RII <M99W> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <M99W> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <M99W> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3,
- ( y) ;D = (Y) T3RII <GF> K0  L U N  M99-RU  J H 9 T U   T 9 T T 3  (Y) <3 :),
- ( y) ;D = (Y) T3RII <GF> K0 { C H 0 D } K3 MUK9R J9UNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <GF> K0 P9T9K K3 { C H 0 D U N G 9 } L0C9L  P I L L 3  (Y) <3 ;),
- ( y) ;D = (Y) T3RII <GF> K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <GF> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <GF> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <GF> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <GF> K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <GF> K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <GF> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <GF> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <GF> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <GF> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <GF> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <GF> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <GF> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <GF> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*,
- ( y) ;D = (Y) T3RII <GF> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <GF> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <GF> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3,
- ( y) ;D = (Y) T3RII <9MM9> K0  L U N  M99-RU  J H 9 T U   T 9 T T 3  (Y) <3 :),
- ( y) ;D = (Y) T3RII <9MM9> K0 { C H 0 D } K3 MUK9R J9UNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <9MM9> K0 P9T9K K3 { C H 0 D U N G 9 } L0C9L  P I L L 3  (Y) <3 ;),
- ( y) ;D = (Y) T3RII <9MMII> J99N K0 9PNI J99N B9N9 K9R FIIR { C H 0 D U N G A } (Y) <3 ;),
- ( y) ;D = (Y) T3RII ( L A W A R II S H ) <9MM9> K9  P H U D D A   M99-RUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII BUDHI <9MM99> K3 S99TH  J II N N A H  K9RK3 ( MUQ9R ) J99UNG99 (Y) <3 :*,
- ( y) ;D = (Y) T3RII ( L 9 N G D II ) <9MM9> KII T9NG3 9PN3 K9NDH3 P3 R99KH K99R  C H 0 D U N G A  (Y) ;* <3,
- ( y) ;D = (Y) T3RII <9MMII> J99N K3 S99TH  G 9 N G - B 9 N G  K99-RU (Y) <3 :),
- ( y) ;D = (Y) T3RII <9MMII> J99N K3 99N-KH0 M3  L U N D  ( M A A R ) KAR ( A N D H II ) B9N9 DUNG9 (Y) <3 3:),
- ( y) ;D = (Y) T3RII <9MMII> K3  G 9 N D  M3 ( L 0 W R 9 ) D99L DUNG9 (Y) <3 :),
- ( y) ;D = (Y) T3RII <9MMII> K0  C H 0 D  K9R F9M0US K99RUN (Y) :) :O,
- ( y) ;D = (Y) T3RII <9MMII> K3  B 0 0 B S  D9B9U SL0WLY SL0WLY (Y) 3:) :/,
- ( y) ;D = (Y) T3RII <9MMII> K3 MUHH M3  M U T H  ( M 9 9 R U ) (Y) <3 =/,
- ( y) ;D = (Y) T3RII <9MMII> K3 S99TH  H 0 N 3 Y M 0 0 N  P3 J99UNG99 <3 (Y) :),
- ( y) ;D = (Y) T3RII <9MMII> K3  P H U D 3  P3 9PN9  L U N D  R9-G9R R9H9 HUN (Y) =D,
- ( y) ;D = (Y) T3RII <9MMII> K9  B H 0 S D 9  NIIST3 N9B00T K9R DUNG9 (y) <3 ;),
- ( y) ;D = (Y) T3RII <9MMII> K3  G 9 N D  K9W GUF9W B9N9W DUNG9W (Y) <3 ;*, 
- ( y) ;D = (Y) T3RII <9MMII> K3  C H U T  K9 ( C H 9 B U T 9 R 9 ) B9N9 DUNG9 (Y) <3 :O,
- ( y) ;D = (Y) T3RII <9MMII> K3 MUHH M3  P 3 S H 9 B  K9R R9H9 HUN = (Y),
- ( y) ;D = (Y) T3RII <9MMII> M3R3  L 0 W R 3  KI  G U L 9 M II  K9RTII H9II (Y) <3
+||33R!!!!! M44--() :) ^^|||CHU7 S4LI
+नम्बर दे तेरी बहन दिल्ली उठवा उसकी चूत मे बर्फ लगाकर चूत चटूंगा <(") ;*  तेरी दीदी की गांड मे टमाटर लगाकर गांड चटूंगा यामी यामी
+तेरी बहन की लिपस्टिक लगाकर लिप्स ;*  पे लण्ड मरूंगा जोकर बेटीचोद 3:) <(")
+तेरी मोसी की गोरी गांड मे रिफाइंड डाल के गांड चोदुँगा 3:) <(")^^|
+तेरी बाप को लोडा देकर तेरी मम्मी चोदुँगा मादरचोद के बच्चे 3:) <(") ||^
+तेरी बहन को खीरा खिला के चोदुँगा मेले झाट भर के पील्ले 3:) <(") -^_|®
+तेरी दीदी की मिर्ची खिला के चोदुँगा चोद चोद के मुर्गा बना दूंगा साले 3:) <(") =/
+तेरी बहन को बड़ा लोडा देकर ख़ुश करूँगा जोकर 3:) <(")
+तेरी माँ सेक्सी वीडियो दिखाकर चोदुँगा लण्ड के बाल 3:) <(") ^^|
+तेरी बहन को गरम गरम जलेबी खिला के चोदुता जाऊंगा 3:) <(") -!(
+तेरी बहन को चोद चोद प्रेग्नेंट करूँगा बेटवा 3:) <(") --=^π[
+लिख मादरचोद तेरी बहन की चूत की कसम जल्दी लिख भाग मत 3:) <(") -®>
+तेरी बहन की चूत मे बर्फ लगा कर :* | चूत चाटूँगा बॉक्सड़ी के 3:) <(") --=[^
+तेरी बहन को टेक्टर पे बैठकर चोदुँगा तेरी मम्मी का खेत जोतूंगा 3:) <(")
+तेरी बहन की चूत मे हाथ डालकर बच्चेदानी निकाल के साधु बनूंगा 3:) <(")
+तेरी बहन की चूत मे जाहरीला नाग डालने वाला राज ठाकुर :) ^^^|
+तेरी बहन के बोक्सड़े मे जुबान डालकर  तेरी  दीदी की चूत से माल निकलूंगा 3:) <(") :)
+तेरी बहन को अपाची पे बैठकर ओयों मे दुष्कर्म करने वाला राज ठाकुर :( :)
+तेरी बहन को आम देकर चोदुँगा साले हराम के पिल्ले :( :) ^^||
+तेरी बहन के बुर मे मलेरिया हो जायेगा ऐसा चोदुँगा जोकर :( :)
+तेरी बहन की काली चूत मे राज ठाकुर का गोरा लण्ड जायेगा झाटू :)
+तेरी बहन की चूत को चोद चोद के बुर्ज खिलीफा बनाऊंगा लोल
+तेरी दीदी की चूत चाट चाट के गुलाबी बना दूंगा लोडे :)
+तेरी अम्मी की चूत चाटु या गांड चाटु बोलता जा लिखता जा :(
+तेरी दीदी की चूत चाट चाट के सांसे बंद कर दूंगा बेटा 3:)
+तेरी छोटी बहन की चूत मे रेल चला दूंगा बहनके लोडे :*
+तेरी भाभी की झाट पर चप्पल मरू झाटू बोल अब 3:) <(")
+तेरी बहन की झाट पर झाड़ू मरूंगा सल्रीले लोल ^ππ| ;*
+तेरी बहन को चोद के जेल जाने वाला द रिटायर्ड फाइटर ज़ालिम जोगी बदमाश 3:) हेयर 3:) <(")
+तेरी बहन का पपीता दबा दबा के चोदुँगा बहन के लोडे -[©^π^^^ 3:) <(")
+तेरी दीदी की चूत चाट कर मुकदमा कर देना तुम मेरे साले :* ^^^ बेटीचोद
+सुना है तेरी दीदी की चूत चाटा हु तो तू 376 धारा मुकदमा कर दिया है लोल :(
+सुना तेरी बहन की चूत मे राज ठाकुर का लोडा डालते ही तेरी दीदी यस यस नो करती है 3:) <(")
+सुना तेरी दीदी को गन्ने के खेत मे चुदवाने मे ज्यादा मजा आता तो मेरे पास 10 बिगे लगा चोदुँगा उसे अपनी गन्ने के खेत मे 3:) <(") कमीना राज ठाकुर डॉन
+सुना है तेरी दीदी लोडा चाट कंडोम से चुदवाती है क्या सच मेरे साले जी 3:) <(")
+सुन साले अब तेरी दीदी को चोद के तेरे घर का बिजली का बिल माफ कर दूंगा :)
+सुन मादरचोद तेरी दीदी को चोद के तेरे घर मे ए सी लगवाऊंगा  :)
